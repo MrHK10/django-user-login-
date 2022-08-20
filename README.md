@@ -1,4 +1,4 @@
-# django-user-login-
+# Django-user-login-
 Django user login page using HTML CSS and Django
 first install django module in pc and after that type command in your IDE terminal python manage.py runserver
 
